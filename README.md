@@ -52,7 +52,7 @@ https://github.com/NSTiwari/Medicine-Scan-with-Gemini/blob/main/README.md
 
 # Interesting Reads
 
-1. [Get LoRA-fied: Trimming the Fat from Deep Learning!](https://medium.com/p/b7e9af10584a/edit) 
+1. [LoRA: Squeezing Giants into Ants with Style](https://medium.com/p/b7e9af10584a/edit) 
 2. [PharmaScan](https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5)
 3. [Generative Image Dynamics](https://aashi-dutt3.medium.com/generative-image-dynamics-a-summary-fd92edce560d)
    
@@ -64,8 +64,8 @@ https://github.com/NSTiwari/Medicine-Scan-with-Gemini/blob/main/README.md
 <!---## 🏆 GitHub Trophies--->
 <!---![](https://github-profile-trophy.vercel.app/?username=AashiDutt&theme=radical&no-frame=false&no-bg=true&margin-w=4)--->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!---### ✍️ Random Dev Quote--->
+<!---![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)--->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AashiDutt&icon=0&color=0)](https://visitcount.itsvg.in)
+<!---[![](https://visitcount.itsvg.in/api?id=AashiDutt&icon=0&color=0)](https://visitcount.itsvg.in)--->
