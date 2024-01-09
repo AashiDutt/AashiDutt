@@ -52,7 +52,7 @@ https://github.com/NSTiwari/Medicine-Scan-with-Gemini/blob/main/README.md
 
 # Interesting Reads
 
-1. [LoRA: Squeezing Giants into Ants with Style](https://medium.com/p/b7e9af10584a/edit) 
+1. [LoRA: Squeezing Giants into Ants with Style]([https://medium.com/p/b7e9af10584a/edit](https://aashi-dutt3.medium.com/lora-squeezing-giants-into-ants-with-style-b7e9af10584a)) 
 2. [PharmaScan](https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5)
 3. [Generative Image Dynamics](https://aashi-dutt3.medium.com/generative-image-dynamics-a-summary-fd92edce560d)
    
