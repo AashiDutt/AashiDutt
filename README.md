@@ -2,6 +2,8 @@
 
 🙋‍♀️I'm an ML enthusiast who likes to explore new technologies, write code, and ask a lot of questions.
 
+⭐️ Google Developer Expert in Machine Learning (Gen AI)
+
 👩🏻‍🎓MS Candidate at Georgia Institute of Technology
 
 🔭 I’m currently working on understanding the basics of LLM and applying learnings to projects
