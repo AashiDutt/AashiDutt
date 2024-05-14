@@ -20,7 +20,32 @@
 
 # Projects
 
-## 1. AI Architect
+## 1. Pdf Chatbot
+
+Gradio application that allows users to upload any pdf and ask questions related to the document using llama3 running locally using Ollama.
+
+## Demo
+<!---![6B965BFD-62BC-43FA-95AD-8BD45CF4E1A1](https://github.com/AashiDutt/AashiDutt/assets/25379502/84c9fd06-9273-49df-a611-dd7abc18deb0)--->
+![pdf_chatbot](https://github.com/AashiDutt/RAG/assets/25379502/36ea5ab7-fa1a-4801-9a0f-19101c37eb57)
+
+
+## Project Link
+
+(https://github.com/AashiDutt/RAG/tree/main/%5BPROJECT%5Dpdf_chatbot)
+
+## 2. Chat with Webpage
+
+A web-based chat application that helps to chat with any webpage using local llama3 and RAG. Developed using Streamlit, ollama and langchain_community.
+
+## Demo
+![webpage_chatbot (1)](https://github.com/AashiDutt/RAG/assets/25379502/81aa0401-93ae-4664-8535-70950408adce)
+
+
+## Project Link
+
+https://github.com/AashiDutt/RAG/blob/main/%5BPROJECT%5DRAG_with_llama3_webpage_chatbot.py
+
+## 3. AI Architect
 
 SDXL fine-tuning with DreamBooth and LoRA for image generation of living rooms and video generation using Stable Video Diffusion by Stability AI hosted on HuggingFace.
 
@@ -34,7 +59,7 @@ SDXL fine-tuning with DreamBooth and LoRA for image generation of living rooms a
 https://github.com/AashiDutt/LLM-Projects/blob/main/AI_Architect_fine_tuning_stable_diffusion_with_Dreambooth_and_LoRA.ipynb
 
 
-## 2. PharmaScan
+## 4. PharmaScan
 
 The PharmaScan app, is powered by revolutionary Gemini Pro Vision API that empowers you to scan your medicines and analyze them for instant prescription information. This app takes an image of any medicine and generates a prescription instantly covering the medicine name, symptoms it cures, primary diagnosis, dosage, and method of use.
 
